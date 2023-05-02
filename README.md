@@ -50,6 +50,7 @@ pip install -r requirements.txt
 
 Запустить сервер django.
 ```
+
 python3 manage.py runserver
 ```
 
